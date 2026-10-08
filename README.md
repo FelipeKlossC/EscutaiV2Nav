@@ -127,10 +127,3 @@ Vídeo demonstrando as telas do aplicativo:
 
 https://github.com/user-attachments/assets/e5f861f4-7217-476f-aa55-0c7d1285e75b
 
-
-Relatório com a documentação do projeto: 
-
-startxref
-335640
-%%EOF
-
