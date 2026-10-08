@@ -121,3 +121,10 @@ Equipe
 Felipe Kloss Conceição: Telas de Perfil, Planos e Histórico de Execuções; README e documentação
 Gabriel Asserman: Tela Início (Home), navegação (barra inferior e rotas), Biblioteca de Músicas, Detalhe da Música e Favoritos
 Mariana Almeida: Playlists, Detalhe da Playlist (métricas calculadas) e Top Músicas
+
+Vídeo demonstrando as telas do aplicativo:
+
+
+https://github.com/user-attachments/assets/bd752df9-b720-4dcc-9cab-135d31996d68
+
+
